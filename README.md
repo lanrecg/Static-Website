@@ -20,3 +20,6 @@ Deleting the Static website by deleting it resource group
 az group delete --name [resource_group_name]
 
 ```
+
+Links
+https://account.activedirectory.windowsazure.com/UserManagement/MfaSettings.aspx?BrandContextID=O365
