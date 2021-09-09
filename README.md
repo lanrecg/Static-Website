@@ -40,3 +40,5 @@ I also attempted to contact you on your provided phone number +44-01010101010 bu
 Please, let me know if you have further concerns within the scope of this support request.
 
 I look forward to hearing from you.
+
+Start-ADSyncSyncCycle -PolicyType Initial
