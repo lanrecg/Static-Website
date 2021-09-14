@@ -45,3 +45,7 @@ Start-ADSyncSyncCycle -PolicyType Initial
 
 
 https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-import-export-config
+
+https://docs.microsoft.com/en-us/archive/blogs/cloudpfe/pre-provisioning-microsoft-azure-multi-factor-authentication-for-users
+
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-sspr-authenticationdata
