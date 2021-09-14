@@ -42,3 +42,6 @@ Please, let me know if you have further concerns within the scope of this suppor
 I look forward to hearing from you.
 
 Start-ADSyncSyncCycle -PolicyType Initial
+
+
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-import-export-config
