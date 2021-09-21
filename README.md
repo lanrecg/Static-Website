@@ -49,3 +49,4 @@ https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-im
 https://docs.microsoft.com/en-us/archive/blogs/cloudpfe/pre-provisioning-microsoft-azure-multi-factor-authentication-for-users
 
 https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-sspr-authenticationdata
+https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/PasswordResetMenuBlade/Audit
