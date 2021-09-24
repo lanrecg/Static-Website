@@ -52,3 +52,5 @@ https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-ssp
 https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/PasswordResetMenuBlade/Audit
 
 https://firebasestorage.googleapis.com/v0/b/unrealvillage.appspot.com/o/Exampass.PNG?alt=media&token=ebeb5ae2-b5c4-45b6-9487-399055011679
+
+https://firebasestorage.googleapis.com/v0/b/unrealvillage.appspot.com/o/Azure%20Exam%20Receipt.pdf?alt=media&token=504f76ce-2d59-40b2-a56e-c6879e332e74
