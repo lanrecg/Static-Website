@@ -50,3 +50,5 @@ https://docs.microsoft.com/en-us/archive/blogs/cloudpfe/pre-provisioning-microso
 
 https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-sspr-authenticationdata
 https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/PasswordResetMenuBlade/Audit
+
+https://firebasestorage.googleapis.com/v0/b/unrealvillage.appspot.com/o/Exampass.PNG?alt=media&token=ebeb5ae2-b5c4-45b6-9487-399055011679
